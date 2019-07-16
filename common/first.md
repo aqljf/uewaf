@@ -6,7 +6,7 @@ UWAF用于为网站提供防护，抵御包括SQL注入，XSS攻击，漏洞攻�
 
 接入UWAF前后对比：
 
-![](/images/common/images/common/%25E7%25BD%2591%25E7%25AB%2599%25E9%25AB%2598%25E9%2598%25B2.jpg)
+![](/images/common/%E7%BD%91%E7%AB%99%E9%AB%98%E9%98%B2.jpg)
 
 WAF是部署在web服务器前，通过转发代理的方式提供保护的一款产品。
 
