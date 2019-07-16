@@ -49,7 +49,7 @@ WAF是部署在web服务器前，通过转发代理的方式提供保护的一�
   - SSL证书：需要上传
   - HTTPS强制跳转：是否开启HTTP转HTTPS的强制跳转
 
-## 3\. 本地测试
+## 3. 本地测试
 
 ![](/images/common/waf28.png)
 
